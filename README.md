@@ -1,16 +1,92 @@
-👋 Hi, I'm Princia D'Almeida
+# 👋 Hi, I'm **Princia D'Almeida**
 
-🚀 Full Stack Developer
+## 🚀 Full Stack Developer
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-About Me
-🔭 I’m currently working on Full Stack Development projects
-👯 Looking to collaborate on innovative full-stack projects
-🌱 Exploring:
-Distributed Systems
-Generative AI for Intelligent Applications
-📫 Reach me at: almeidaprincia7@gmail.com
-🛠️ Tech Stack
 
-📈 GitHub Stats
+## **About Me**
 
+- 🔭 I’m currently working on **Full Stack Development projects**  
+- 👯 Looking to collaborate on **innovative full-stack projects**  
+- 🌱 **Exploring:**  
+   - Distributed Systems  
+   - Generative AI for Intelligent Applications  
+- 📫 **Reach me at:** [almeidaprincia7@gmail.com](mailto:almeidaprincia7@gmail.com)
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### **Frontend Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### **Backend Development**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+### **Databases & BaaS**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+---
+
+### **Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+### **Game Development**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## 📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princiaalmeida&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princiaalmeida&theme=radical" width="400"/>
+</p>
+
+---
+
+## 🏆 **Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=princiaalmeida&theme=dracula&row=1&column=4"/>
+</p>
+
+---
+
+## 🔥 **Profile Views**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princiaalmeida&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## ✨ **"Turning ideas into reality through code!"**
