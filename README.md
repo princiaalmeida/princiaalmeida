@@ -42,7 +42,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=princiaalmeida&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princiaalmeida&theme=radical" width="400"/>
 </p>
 
 ---
