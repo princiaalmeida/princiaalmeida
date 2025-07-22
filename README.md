@@ -1,10 +1,8 @@
 # 👋 Hi, I'm **Princia D'Almeida**
 
-## 🚀 Full Stack Developer
+## 🚀 About Me
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
-## **About Me**
 
 - 🔭 I’m currently working on **Full Stack Development projects**  
 - 👯 Looking to collaborate on **innovative full-stack projects**  
