@@ -10,6 +10,7 @@
    - Distributed Systems  
    - Generative AI for Intelligent Applications  
 - 📫 **Reach me at:** [almeidaprincia7@gmail.com](mailto:almeidaprincia7@gmail.com)
+- 🌟 **I believe in building solutions that create real impact and learning continuously.**
 
 ---
 
