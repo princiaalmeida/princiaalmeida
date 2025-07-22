@@ -3,6 +3,8 @@
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+--
 - 🛠️ I’m currently working on **Full Stack Development projects**
 - 🤝 Looking to collaborate on **innovative full-stack projects**
 - 🌱 **Exploring:**
@@ -11,6 +13,7 @@
 - 📫 **Reach me at:** almeidaprincia7@gmail.com
 - 🚀 Motivated by challenges and driven to push the boundaries of technology.
 - 🧩 Writing clean, maintainable, and efficient code is my priority.
+--
 
 ## 🛠️ **Tech Stack**
 
