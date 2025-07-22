@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi, I'm Princia D'Almeida
 
-<!--
-**princiaalmeida/princiaalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+💻 About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on Full Stack Development projects
+👯 I’m looking to collaborate on innovative full-stack projects
+🌱 Exploring:
+Distributed Systems
+Generative AI for Intelligent Applications
+📫 Reach me at: almeidaprincia7@gmail.com
