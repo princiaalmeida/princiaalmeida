@@ -37,9 +37,3 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
-
-## 🏆 **Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=princiaalmeida&theme=dracula&row=1&column=4"/>
-</p>
