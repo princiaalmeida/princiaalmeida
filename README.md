@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Girl Coder" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 * 🛠️ I’m currently working on **Full Stack Development & IoT projects**
 * 🤝 Looking to collaborate on **innovative Full Stack + IoT projects**
