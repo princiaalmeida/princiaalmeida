@@ -5,7 +5,7 @@
 <img align="right" alt="Female Developer Coding" width="300" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
 * 🛠️ I’m currently working on **Full Stack Development & IoT projects**
-* 🤝 Looking to collaborate on **innovative Full Stack + IoT projects**
+* 🤝 Looking to collaborate on **innovative Full Stack projects**
 * 🌱 **Exploring:**
 
   * Distributed Systems
